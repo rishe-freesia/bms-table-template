@@ -1,4 +1,58 @@
 {
+  "course": [
+    [
+      {
+        "name": "freesia BMS course「Trusted」",
+        "constraint": [
+          "grade_mirror",
+          "gauge_lr2"
+        ],
+        "trophy": [
+          {
+            "name": "bronzemedal",
+            "missrate": 7.5,
+            "scorerate": 0
+          },
+          {
+            "name": "silvermedal",
+            "missrate": 5,
+            "scorerate": 70
+          },
+          {
+            "name": "goldmedal",
+            "missrate": 2.5,
+            "scorerate": 85
+          }
+        ],
+        "charts": [
+          {
+            "title": "ROTTERDAM KITCHEN[7key Insane]",
+            "subtitle": "[7key Insane]",
+            "artist": "freesia",
+            "sha256": "e57785ae0ee6124b8f557433339e02033acbe02e468642323cf85fbf823f4c5e"
+          },
+          {
+            "title": "セイレーン・リーシェの記憶 [SP INSANE]",
+            "subtitle": "[DP ANOTHER]",
+            "artist": "Seiren_Rishe",
+            "sha256": "b2c9a5242e1d9fba1682ccdc2f8516d49c2465f612d37d2f7a2753676eb2127f"
+          },
+          {
+            "title": "Carriage Worm![7key Another]",
+            "subtitle": "[7key Another]",
+            "artist": "freesia",
+            "sha256": "30c41edafef7b01a5115cc381b23d958bfb16dcd5ccd0615faa79a0930dfc387"
+          },
+          {
+            "title": "よくばりピエロ[よくばりセット]",
+            "subtitle": "[よくばりセット]",
+            "artist": "freesia",
+            "sha256": "d435db03e96813ce32eddda771baa6952e415bf205c0cb898e8ad2810437f92e"
+          }
+        ]
+      },
+    ]
+  ],
 "name" : "freesia BMS table(~2024)",
 "symbol" : "f*",
 "data_url" : "https://script.google.com/macros/s/AKfycbwKY8GZFwiMJblvT1Mjal14b2WzhkhLNAEZpq8cp1B_g4k6tRUzVA0ugYfzv-2sSRTf/exec"
