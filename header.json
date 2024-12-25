@@ -1,7 +1,7 @@
 {
 "name" : "freesia BMS table(~2024)",
 "symbol" : "f*",
-"data_url" : "https://script.google.com/macros/s/AKfycbz5E5udnjohTXNdL_aigQBypNcFCQiLHD8Haoj1naUKE6Gz8ZfLJ5i7qkiz1IBI3Buh/exec",
+"data_url" : "https://script.google.com/macros/s/AKfycbyY8UnihGLLWub2udFzCbU4itsGr7nBinQOWl2KtsenTvvOxjWEfYISzEsGGJis33uG/exec",
 "course":[
 {"name":"freesia grade*1「Visitor」2024ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["4a4df382b1214677403289f2f8de825a","d3c7489cd5b647712846871cbab7e7e2","fb09f17ba83bd2de6c2394d40e1c382c","00e0cb04072dabbaac8a02d82700cda2"]},
 {"name":"freesia grade*2「New User」2024ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["f594a11da2140610e4b3430255af6f6b","81fda6fa73b576285412edc12ad6888f","a08f0e741e692f31a407dbef1e411450","8c1ba1382fc4a61cc56c851a3d8ca7b4"]},
