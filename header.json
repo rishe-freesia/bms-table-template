@@ -3,5 +3,9 @@
 "symbol" : "f*",
 "data_url" : "https://script.google.com/macros/s/AKfycbz5E5udnjohTXNdL_aigQBypNcFCQiLHD8Haoj1naUKE6Gz8ZfLJ5i7qkiz1IBI3Buh/exec",
 "course":[
-{"name":"freesia BMS course 2024「Trusted User」","constraint":["grade_mirror","gauge_lr2",""],"md5":["1d58137375768462bfaa6ba540291db8","92bb27fa347ed1a6bfb967666cb8452a","b4831fadfdb95048d0349895f8fc13d9","3e9de2ca03dbb72b0f51e9f42b119459"]}
+{"name":"freesia grade*1「Visitor」2024ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["4a4df382b1214677403289f2f8de825a","d3c7489cd5b647712846871cbab7e7e2","fb09f17ba83bd2de6c2394d40e1c382c","00e0cb04072dabbaac8a02d82700cda2"]},
+{"name":"freesia grade*2「New User」2024ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["f594a11da2140610e4b3430255af6f6b","81fda6fa73b576285412edc12ad6888f","a08f0e741e692f31a407dbef1e411450","8c1ba1382fc4a61cc56c851a3d8ca7b4"]},
+{"name":"freesia grade*3「User」2024ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["b2fb320fd4c44222056b69cf48789fac","b67922a97f39c77caf723264286aa4c7","96d86b9b8a3456efceaeb182ab1181a3","1fbd97f9956ac8ea1e946a5753e383b0"]},
+{"name":"freesia grade*4「Known User」2024ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["6ee51b1e05838f77354ac785721a037e","b9def13681245aa507067bac24660a61","d756ea85107f332cb82d6c1a46b3f4ac","4eb0a917602cf59c45106e91bac4444c"]},
+{"name":"freesia grade*5「Trusted User」2024ver","constraint":["grade_mirror","gauge_lr2",""],"md5":["1d58137375768462bfaa6ba540291db8","92bb27fa347ed1a6bfb967666cb8452a","b4831fadfdb95048d0349895f8fc13d9","3e9de2ca03dbb72b0f51e9f42b119459"]}
 ]}
